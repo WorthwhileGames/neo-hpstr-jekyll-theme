@@ -20,10 +20,6 @@ url: https://worthwhilegames.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -32,10 +28,10 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+      - title: 'Alexa TypeScript Example'
+        url: '/alexa/alexa-typescript-example/'
+      - title: 'Alexa Skill Introduction'
+        url: '/alexa/alexa-skill-introduction/'
 
 # Owner/author information
 owner:
