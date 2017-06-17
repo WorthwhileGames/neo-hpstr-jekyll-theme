@@ -1,15 +1,14 @@
 ---
 layout: post
-title: An introduction to Alexa Skill Development
+title: An Introduction to Alexa Skill Development
 modified:
-categories: alexa
+categories: [alexa]
 description:
-link: https://github.com/aron-bordin/neo-hpstr-jekyll-theme/issues/29
 tags: []
 image:
-  feature:
-  credit:
-  creditlink:
+    feature: feature.jpg
+    credit: dargadgetz
+    creditlink: https://github.com/WorthwhileGames/alexa-skill-introduction
 comments: true
 share: true
 date: 2017-06-17T16:40:00-05:00
