@@ -28,6 +28,8 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
+      - title: 'Alexa IoT/mqtt Example'
+        url: '/alexa/alexa-mqtt-typescript-example/'
       - title: 'Alexa TypeScript Example'
         url: '/alexa/alexa-typescript-example/'
       - title: 'Alexa Skill Introduction'
